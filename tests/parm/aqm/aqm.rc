@@ -28,7 +28,7 @@ mp_tracer_map: gfdl
 dy_tracer_map_start: 9
 
 ctm_aod: true
-ctm_pmdiag: true
+ctm_aqdiag: true
 ctm_wb_dust: true
 
 ctm_stdout: maintask
